@@ -1,9 +1,8 @@
-### Hi 
+### Hi  🧗‍♂️
 
-🧗‍♂️
-![](https://v2.jinrishici.com/one.svg?font-size=20&spacing=2&color=green)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E5%8B%87%E6%95%A2%E6%8E%A2%E7%B4%A2%E7%9A%84%E4%BA%BA%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E8%BF%99%E9%87%8C)
+![](https://feihua.onrender.com/shici?site=stoneren)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JCSIVO&theme=github_dark) 
 
