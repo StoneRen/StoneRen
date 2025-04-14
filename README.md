@@ -3,7 +3,7 @@
 [StoneRen.TOP](https://stoneren.top)
 
 
-[![](https://feihua.onrender.com/shici?site=github.com/StoneRen)](https://feihua.onrender.com/shici?site=github.com/StoneRen)
+[![](https://feihua.onrender.com/shici/stoneren)](https://feihua.onrender.com/shici/stoneren)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JCSIVO&theme=github_dark) 
