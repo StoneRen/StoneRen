@@ -2,10 +2,9 @@
 
 [stonren.top](https://stoneren.top)
 
-[![](https://feihua.onrender.com/shici/stoneren)](https://feihua.onrender.com/shici/stoneren)
+![feihua](https://raw.githubusercontent.com/StoneRen/profile-assets/refs/heads/main/feihua.svg)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JCSIVO&theme=github_dark) 
+![GitHub Contributions](https://raw.githubusercontent.com/StoneRen/profile-assets/main/contributions.svg)
 
 
 
