@@ -4,10 +4,12 @@
 
 ![feihua](https://raw.githubusercontent.com/StoneRen/profile-assets/refs/heads/main/feihua.svg)
 
-![GitHub Contributions](https://raw.githubusercontent.com/StoneRen/profile-assets/main/contributions.svg)
 
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StoneRen/profile-assets/main/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StoneRen/profile-assets/main/contributions.svg">
+  <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/StoneRen/profile-assets/main/contributions.svg">
+</picture>
 
 
 <!--
